@@ -13,8 +13,8 @@ Melalui proyek ini, diharapkan dapat tercipta sebuah infrastruktur keamanan ruan
 
 ## 👥 Anggota Kelompok 3
 * **Muhammad Rofi Awaluddin (23552011025)** 
-* **Muhammad Yusuf Firdaus**
-* **Sandy Wijaya Sugiarto**
+* **Muhammad Yusuf Firdaus (23552011431)**
+* **Sandy Wijaya Sugiarto (23552011191)**
   
 ## 🛠️ Komponen Hardware dan Fungsinya
 Untuk merealisasikan sistem "SAPI BERITA" ini, kami menggunakan perangkat keras berikut:
