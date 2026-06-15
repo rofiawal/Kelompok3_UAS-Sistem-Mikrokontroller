@@ -12,7 +12,7 @@ Fokus utama dari pengembangan prototipe ini tidak hanya sekadar membaca kartu, m
 Melalui proyek ini, diharapkan dapat tercipta sebuah infrastruktur keamanan ruangan dan presensi yang lebih efisien, akurat, dan terpercaya.
 
 ## 👥 Anggota Kelompok 3
-* **Muhammad Rofi Awaluddin** 
+* **Muhammad Rofi Awaluddin (23552011025)** 
 * **Muhammad Yusuf Firdaus**
 * **Sandy Wijaya Sugiarto**
   
